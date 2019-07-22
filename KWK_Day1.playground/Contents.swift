@@ -70,4 +70,12 @@ else {
     print("It's fine.")
 }
 
- 
+ var github =  "Rocks"
+
+if github == "Rocks" {
+    print("You did it!")
+}
+
+else {
+    print("Try again")
+}
