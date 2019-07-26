@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1809922222EB3DE3006507A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809922122EB3DE3006507A8 /* AppDelegate.swift */; };
-		1809922422EB3DE3006507A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809922322EB3DE3006507A8 /* ViewController.swift */; };
-		1809922722EB3DE3006507A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1809922522EB3DE3006507A8 /* Main.storyboard */; };
-		1809922922EB3DE5006507A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1809922822EB3DE5006507A8 /* Assets.xcassets */; };
-		1809922C22EB3DE5006507A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1809922A22EB3DE5006507A8 /* LaunchScreen.storyboard */; };
-		1809923722EB3DE5006507A8 /* primeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809923622EB3DE5006507A8 /* primeTests.swift */; };
-		1809924222EB3DE5006507A8 /* primeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809924122EB3DE5006507A8 /* primeUITests.swift */; };
+		1809938622EB981F006507A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809938522EB981F006507A8 /* AppDelegate.swift */; };
+		1809938822EB981F006507A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809938722EB981F006507A8 /* ViewController.swift */; };
+		1809938B22EB981F006507A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1809938922EB981F006507A8 /* Main.storyboard */; };
+		1809938D22EB9821006507A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1809938C22EB9821006507A8 /* Assets.xcassets */; };
+		1809939022EB9821006507A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1809938E22EB9821006507A8 /* LaunchScreen.storyboard */; };
+		1809939B22EB9821006507A8 /* SegwayPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809939A22EB9821006507A8 /* SegwayPracticeTests.swift */; };
+		180993A622EB9821006507A8 /* SegwayPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180993A522EB9821006507A8 /* SegwayPracticeUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1809923322EB3DE5006507A8 /* PBXContainerItemProxy */ = {
+		1809939722EB9821006507A8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 1809921622EB3DE3006507A8 /* Project object */;
+			containerPortal = 1809937A22EB981F006507A8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1809921D22EB3DE3006507A8;
-			remoteInfo = prime;
+			remoteGlobalIDString = 1809938122EB981F006507A8;
+			remoteInfo = SegwayPractice;
 		};
-		1809923E22EB3DE5006507A8 /* PBXContainerItemProxy */ = {
+		180993A222EB9821006507A8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 1809921622EB3DE3006507A8 /* Project object */;
+			containerPortal = 1809937A22EB981F006507A8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1809921D22EB3DE3006507A8;
-			remoteInfo = prime;
+			remoteGlobalIDString = 1809938122EB981F006507A8;
+			remoteInfo = SegwayPractice;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1809921E22EB3DE3006507A8 /* prime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prime.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1809922122EB3DE3006507A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1809922322EB3DE3006507A8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1809922622EB3DE3006507A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1809922822EB3DE5006507A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1809922B22EB3DE5006507A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1809922D22EB3DE5006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1809923222EB3DE5006507A8 /* primeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = primeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1809923622EB3DE5006507A8 /* primeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = primeTests.swift; sourceTree = "<group>"; };
-		1809923822EB3DE5006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1809923D22EB3DE5006507A8 /* primeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = primeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1809924122EB3DE5006507A8 /* primeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = primeUITests.swift; sourceTree = "<group>"; };
-		1809924322EB3DE5006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1809938222EB981F006507A8 /* SegwayPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegwayPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1809938522EB981F006507A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1809938722EB981F006507A8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1809938A22EB981F006507A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1809938C22EB9821006507A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1809938F22EB9821006507A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1809939122EB9821006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1809939622EB9821006507A8 /* SegwayPracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegwayPracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1809939A22EB9821006507A8 /* SegwayPracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegwayPracticeTests.swift; sourceTree = "<group>"; };
+		1809939C22EB9821006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		180993A122EB9821006507A8 /* SegwayPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegwayPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		180993A522EB9821006507A8 /* SegwayPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegwayPracticeUITests.swift; sourceTree = "<group>"; };
+		180993A722EB9821006507A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1809921B22EB3DE3006507A8 /* Frameworks */ = {
+		1809937F22EB981F006507A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809922F22EB3DE5006507A8 /* Frameworks */ = {
+		1809939322EB9821006507A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809923A22EB3DE5006507A8 /* Frameworks */ = {
+		1809939E22EB9821006507A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,137 +74,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1809921522EB3DE3006507A8 = {
+		1809937922EB981F006507A8 = {
 			isa = PBXGroup;
 			children = (
-				1809922022EB3DE3006507A8 /* prime */,
-				1809923522EB3DE5006507A8 /* primeTests */,
-				1809924022EB3DE5006507A8 /* primeUITests */,
-				1809921F22EB3DE3006507A8 /* Products */,
+				1809938422EB981F006507A8 /* SegwayPractice */,
+				1809939922EB9821006507A8 /* SegwayPracticeTests */,
+				180993A422EB9821006507A8 /* SegwayPracticeUITests */,
+				1809938322EB981F006507A8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1809921F22EB3DE3006507A8 /* Products */ = {
+		1809938322EB981F006507A8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1809921E22EB3DE3006507A8 /* prime.app */,
-				1809923222EB3DE5006507A8 /* primeTests.xctest */,
-				1809923D22EB3DE5006507A8 /* primeUITests.xctest */,
+				1809938222EB981F006507A8 /* SegwayPractice.app */,
+				1809939622EB9821006507A8 /* SegwayPracticeTests.xctest */,
+				180993A122EB9821006507A8 /* SegwayPracticeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1809922022EB3DE3006507A8 /* prime */ = {
+		1809938422EB981F006507A8 /* SegwayPractice */ = {
 			isa = PBXGroup;
 			children = (
-				1809922122EB3DE3006507A8 /* AppDelegate.swift */,
-				1809922322EB3DE3006507A8 /* ViewController.swift */,
-				1809922522EB3DE3006507A8 /* Main.storyboard */,
-				1809922822EB3DE5006507A8 /* Assets.xcassets */,
-				1809922A22EB3DE5006507A8 /* LaunchScreen.storyboard */,
-				1809922D22EB3DE5006507A8 /* Info.plist */,
+				1809938522EB981F006507A8 /* AppDelegate.swift */,
+				1809938722EB981F006507A8 /* ViewController.swift */,
+				1809938922EB981F006507A8 /* Main.storyboard */,
+				1809938C22EB9821006507A8 /* Assets.xcassets */,
+				1809938E22EB9821006507A8 /* LaunchScreen.storyboard */,
+				1809939122EB9821006507A8 /* Info.plist */,
 			);
-			path = prime;
+			path = SegwayPractice;
 			sourceTree = "<group>";
 		};
-		1809923522EB3DE5006507A8 /* primeTests */ = {
+		1809939922EB9821006507A8 /* SegwayPracticeTests */ = {
 			isa = PBXGroup;
 			children = (
-				1809923622EB3DE5006507A8 /* primeTests.swift */,
-				1809923822EB3DE5006507A8 /* Info.plist */,
+				1809939A22EB9821006507A8 /* SegwayPracticeTests.swift */,
+				1809939C22EB9821006507A8 /* Info.plist */,
 			);
-			path = primeTests;
+			path = SegwayPracticeTests;
 			sourceTree = "<group>";
 		};
-		1809924022EB3DE5006507A8 /* primeUITests */ = {
+		180993A422EB9821006507A8 /* SegwayPracticeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				1809924122EB3DE5006507A8 /* primeUITests.swift */,
-				1809924322EB3DE5006507A8 /* Info.plist */,
+				180993A522EB9821006507A8 /* SegwayPracticeUITests.swift */,
+				180993A722EB9821006507A8 /* Info.plist */,
 			);
-			path = primeUITests;
+			path = SegwayPracticeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1809921D22EB3DE3006507A8 /* prime */ = {
+		1809938122EB981F006507A8 /* SegwayPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1809924622EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "prime" */;
+			buildConfigurationList = 180993AA22EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPractice" */;
 			buildPhases = (
-				1809921A22EB3DE3006507A8 /* Sources */,
-				1809921B22EB3DE3006507A8 /* Frameworks */,
-				1809921C22EB3DE3006507A8 /* Resources */,
+				1809937E22EB981F006507A8 /* Sources */,
+				1809937F22EB981F006507A8 /* Frameworks */,
+				1809938022EB981F006507A8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = prime;
-			productName = prime;
-			productReference = 1809921E22EB3DE3006507A8 /* prime.app */;
+			name = SegwayPractice;
+			productName = SegwayPractice;
+			productReference = 1809938222EB981F006507A8 /* SegwayPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1809923122EB3DE5006507A8 /* primeTests */ = {
+		1809939522EB9821006507A8 /* SegwayPracticeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1809924922EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "primeTests" */;
+			buildConfigurationList = 180993AD22EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPracticeTests" */;
 			buildPhases = (
-				1809922E22EB3DE5006507A8 /* Sources */,
-				1809922F22EB3DE5006507A8 /* Frameworks */,
-				1809923022EB3DE5006507A8 /* Resources */,
+				1809939222EB9821006507A8 /* Sources */,
+				1809939322EB9821006507A8 /* Frameworks */,
+				1809939422EB9821006507A8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1809923422EB3DE5006507A8 /* PBXTargetDependency */,
+				1809939822EB9821006507A8 /* PBXTargetDependency */,
 			);
-			name = primeTests;
-			productName = primeTests;
-			productReference = 1809923222EB3DE5006507A8 /* primeTests.xctest */;
+			name = SegwayPracticeTests;
+			productName = SegwayPracticeTests;
+			productReference = 1809939622EB9821006507A8 /* SegwayPracticeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1809923C22EB3DE5006507A8 /* primeUITests */ = {
+		180993A022EB9821006507A8 /* SegwayPracticeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1809924C22EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "primeUITests" */;
+			buildConfigurationList = 180993B022EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPracticeUITests" */;
 			buildPhases = (
-				1809923922EB3DE5006507A8 /* Sources */,
-				1809923A22EB3DE5006507A8 /* Frameworks */,
-				1809923B22EB3DE5006507A8 /* Resources */,
+				1809939D22EB9821006507A8 /* Sources */,
+				1809939E22EB9821006507A8 /* Frameworks */,
+				1809939F22EB9821006507A8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1809923F22EB3DE5006507A8 /* PBXTargetDependency */,
+				180993A322EB9821006507A8 /* PBXTargetDependency */,
 			);
-			name = primeUITests;
-			productName = primeUITests;
-			productReference = 1809923D22EB3DE5006507A8 /* primeUITests.xctest */;
+			name = SegwayPracticeUITests;
+			productName = SegwayPracticeUITests;
+			productReference = 180993A122EB9821006507A8 /* SegwayPracticeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1809921622EB3DE3006507A8 /* Project object */ = {
+		1809937A22EB981F006507A8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = "Veronica Cheung";
 				TargetAttributes = {
-					1809921D22EB3DE3006507A8 = {
+					1809938122EB981F006507A8 = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
-					1809923122EB3DE5006507A8 = {
+					1809939522EB9821006507A8 = {
 						CreatedOnToolsVersion = 10.2.1;
-						TestTargetID = 1809921D22EB3DE3006507A8;
+						TestTargetID = 1809938122EB981F006507A8;
 					};
-					1809923C22EB3DE5006507A8 = {
+					180993A022EB9821006507A8 = {
 						CreatedOnToolsVersion = 10.2.1;
-						TestTargetID = 1809921D22EB3DE3006507A8;
+						TestTargetID = 1809938122EB981F006507A8;
 					};
 				};
 			};
-			buildConfigurationList = 1809921922EB3DE3006507A8 /* Build configuration list for PBXProject "prime" */;
+			buildConfigurationList = 1809937D22EB981F006507A8 /* Build configuration list for PBXProject "SegwayPractice" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -212,37 +212,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 1809921522EB3DE3006507A8;
-			productRefGroup = 1809921F22EB3DE3006507A8 /* Products */;
+			mainGroup = 1809937922EB981F006507A8;
+			productRefGroup = 1809938322EB981F006507A8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1809921D22EB3DE3006507A8 /* prime */,
-				1809923122EB3DE5006507A8 /* primeTests */,
-				1809923C22EB3DE5006507A8 /* primeUITests */,
+				1809938122EB981F006507A8 /* SegwayPractice */,
+				1809939522EB9821006507A8 /* SegwayPracticeTests */,
+				180993A022EB9821006507A8 /* SegwayPracticeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1809921C22EB3DE3006507A8 /* Resources */ = {
+		1809938022EB981F006507A8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1809922C22EB3DE5006507A8 /* LaunchScreen.storyboard in Resources */,
-				1809922922EB3DE5006507A8 /* Assets.xcassets in Resources */,
-				1809922722EB3DE3006507A8 /* Main.storyboard in Resources */,
+				1809939022EB9821006507A8 /* LaunchScreen.storyboard in Resources */,
+				1809938D22EB9821006507A8 /* Assets.xcassets in Resources */,
+				1809938B22EB981F006507A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809923022EB3DE5006507A8 /* Resources */ = {
+		1809939422EB9821006507A8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809923B22EB3DE5006507A8 /* Resources */ = {
+		1809939F22EB9821006507A8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -252,59 +252,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1809921A22EB3DE3006507A8 /* Sources */ = {
+		1809937E22EB981F006507A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1809922422EB3DE3006507A8 /* ViewController.swift in Sources */,
-				1809922222EB3DE3006507A8 /* AppDelegate.swift in Sources */,
+				1809938822EB981F006507A8 /* ViewController.swift in Sources */,
+				1809938622EB981F006507A8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809922E22EB3DE5006507A8 /* Sources */ = {
+		1809939222EB9821006507A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1809923722EB3DE5006507A8 /* primeTests.swift in Sources */,
+				1809939B22EB9821006507A8 /* SegwayPracticeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1809923922EB3DE5006507A8 /* Sources */ = {
+		1809939D22EB9821006507A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1809924222EB3DE5006507A8 /* primeUITests.swift in Sources */,
+				180993A622EB9821006507A8 /* SegwayPracticeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1809923422EB3DE5006507A8 /* PBXTargetDependency */ = {
+		1809939822EB9821006507A8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1809921D22EB3DE3006507A8 /* prime */;
-			targetProxy = 1809923322EB3DE5006507A8 /* PBXContainerItemProxy */;
+			target = 1809938122EB981F006507A8 /* SegwayPractice */;
+			targetProxy = 1809939722EB9821006507A8 /* PBXContainerItemProxy */;
 		};
-		1809923F22EB3DE5006507A8 /* PBXTargetDependency */ = {
+		180993A322EB9821006507A8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1809921D22EB3DE3006507A8 /* prime */;
-			targetProxy = 1809923E22EB3DE5006507A8 /* PBXContainerItemProxy */;
+			target = 1809938122EB981F006507A8 /* SegwayPractice */;
+			targetProxy = 180993A222EB9821006507A8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		1809922522EB3DE3006507A8 /* Main.storyboard */ = {
+		1809938922EB981F006507A8 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1809922622EB3DE3006507A8 /* Base */,
+				1809938A22EB981F006507A8 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		1809922A22EB3DE5006507A8 /* LaunchScreen.storyboard */ = {
+		1809938E22EB9821006507A8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1809922B22EB3DE5006507A8 /* Base */,
+				1809938F22EB9821006507A8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		1809924422EB3DE5006507A8 /* Debug */ = {
+		180993A822EB9821006507A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -373,7 +373,7 @@
 			};
 			name = Debug;
 		};
-		1809924522EB3DE5006507A8 /* Release */ = {
+		180993A922EB9821006507A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -428,158 +428,158 @@
 			};
 			name = Release;
 		};
-		1809924722EB3DE5006507A8 /* Debug */ = {
+		180993AB22EB9821006507A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = prime/Info.plist;
+				INFOPLIST_FILE = SegwayPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.prime;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		1809924822EB3DE5006507A8 /* Release */ = {
+		180993AC22EB9821006507A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = prime/Info.plist;
+				INFOPLIST_FILE = SegwayPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.prime;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		1809924A22EB3DE5006507A8 /* Debug */ = {
+		180993AE22EB9821006507A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = primeTests/Info.plist;
+				INFOPLIST_FILE = SegwayPracticeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.primeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prime.app/prime";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SegwayPractice.app/SegwayPractice";
 			};
 			name = Debug;
 		};
-		1809924B22EB3DE5006507A8 /* Release */ = {
+		180993AF22EB9821006507A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = primeTests/Info.plist;
+				INFOPLIST_FILE = SegwayPracticeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.primeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prime.app/prime";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SegwayPractice.app/SegwayPractice";
 			};
 			name = Release;
 		};
-		1809924D22EB3DE5006507A8 /* Debug */ = {
+		180993B122EB9821006507A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = primeUITests/Info.plist;
+				INFOPLIST_FILE = SegwayPracticeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.primeUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = prime;
+				TEST_TARGET_NAME = SegwayPractice;
 			};
 			name = Debug;
 		};
-		1809924E22EB3DE5006507A8 /* Release */ = {
+		180993B222EB9821006507A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = primeUITests/Info.plist;
+				INFOPLIST_FILE = SegwayPracticeUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kwk.primeUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.SegwayPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = prime;
+				TEST_TARGET_NAME = SegwayPractice;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1809921922EB3DE3006507A8 /* Build configuration list for PBXProject "prime" */ = {
+		1809937D22EB981F006507A8 /* Build configuration list for PBXProject "SegwayPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1809924422EB3DE5006507A8 /* Debug */,
-				1809924522EB3DE5006507A8 /* Release */,
+				180993A822EB9821006507A8 /* Debug */,
+				180993A922EB9821006507A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1809924622EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "prime" */ = {
+		180993AA22EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1809924722EB3DE5006507A8 /* Debug */,
-				1809924822EB3DE5006507A8 /* Release */,
+				180993AB22EB9821006507A8 /* Debug */,
+				180993AC22EB9821006507A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1809924922EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "primeTests" */ = {
+		180993AD22EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPracticeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1809924A22EB3DE5006507A8 /* Debug */,
-				1809924B22EB3DE5006507A8 /* Release */,
+				180993AE22EB9821006507A8 /* Debug */,
+				180993AF22EB9821006507A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1809924C22EB3DE5006507A8 /* Build configuration list for PBXNativeTarget "primeUITests" */ = {
+		180993B022EB9821006507A8 /* Build configuration list for PBXNativeTarget "SegwayPracticeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1809924D22EB3DE5006507A8 /* Debug */,
-				1809924E22EB3DE5006507A8 /* Release */,
+				180993B122EB9821006507A8 /* Debug */,
+				180993B222EB9821006507A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1809921622EB3DE3006507A8 /* Project object */;
+	rootObject = 1809937A22EB981F006507A8 /* Project object */;
 }

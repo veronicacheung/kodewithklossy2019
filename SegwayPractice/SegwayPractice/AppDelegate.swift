@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  prime
+//  SegwayPractice
 //
 //  Created by Apple on 7/26/19.
 //  Copyright © 2019 Veronica Cheung. All rights reserved.
