@@ -25,12 +25,12 @@ class ViewController: UIViewController {
             //  let: defining new title, but you are only defining it when the text exists so it is an if statement
             //unwrapping the statement when the box is not empty
         }
-        let alertController = UIAlertController(title: "New Title", message:
+       /* let alertController = UIAlertController(title: "New Title", message:
             "You just changed the title", preferredStyle: .alert)
         
         alertController.addAction(UIAlertAction(title: "Yeah", style: .default))
         
-        self.present(alertController, animated: true, completion: nil)
+        self.present(alertController, animated: true, completion: nil) */
     }
     
     @IBAction func showAlert(_ sender: Any) {

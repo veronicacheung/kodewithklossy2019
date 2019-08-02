@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 180ADC0822E9F9C000E3B100 /* Build configuration list for PBXProject "KWK_Day4_Storyboard" */;
+			buildConfigurationList = 180ADC0822E9F9C000E3B100 /* Build configuration list for PBXProject "bae" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -433,6 +433,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ULLZB63NA2;
 				INFOPLIST_FILE = KWK_Day4_Storyboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ULLZB63NA2;
 				INFOPLIST_FILE = KWK_Day4_Storyboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -543,7 +545,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		180ADC0822E9F9C000E3B100 /* Build configuration list for PBXProject "KWK_Day4_Storyboard" */ = {
+		180ADC0822E9F9C000E3B100 /* Build configuration list for PBXProject "bae" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				180ADC3322E9F9C400E3B100 /* Debug */,
